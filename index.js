@@ -20,7 +20,7 @@ function getPassword(){
    password.value = newPassword
    setTimeout (() => {
     alert ('password has been genarated!')
-   }, 2000)
+   }, 20)
 }
 
 function savePassword(){
